@@ -16,7 +16,7 @@ body {
     height: 100vh;
     padding: 0 24px;
     background-color: var(--color-primary);
-    background-image: url(/assets/low-poly-grid-haikei.svg);
+    background-image: url(assets/low-poly-grid-haikei.svg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #f9f9f9;
